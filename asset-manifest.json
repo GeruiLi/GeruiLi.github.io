@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f5497eb8.chunk.css",
+    "main.js": "/static/js/main.b120729e.chunk.js",
+    "main.js.map": "/static/js/main.b120729e.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.554504a0.js",
+    "runtime-main.js.map": "/static/js/runtime-main.554504a0.js.map",
+    "static/js/2.19e99e5d.chunk.js": "/static/js/2.19e99e5d.chunk.js",
+    "static/js/2.19e99e5d.chunk.js.map": "/static/js/2.19e99e5d.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.3e37d0226b128ca81ec3d9d5d4b36324.js": "/precache-manifest.3e37d0226b128ca81ec3d9d5d4b36324.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.f5497eb8.chunk.css.map": "/static/css/main.f5497eb8.chunk.css.map",
+    "static/js/2.19e99e5d.chunk.js.LICENSE.txt": "/static/js/2.19e99e5d.chunk.js.LICENSE.txt",
+    "static/media/GeruiLi.png": "/static/media/GeruiLi.49bafd21.png",
+    "static/media/resume.pdf": "/static/media/resume.84a559c4.pdf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.554504a0.js",
+    "static/js/2.19e99e5d.chunk.js",
+    "static/css/main.f5497eb8.chunk.css",
+    "static/js/main.b120729e.chunk.js"
+  ]
+}
